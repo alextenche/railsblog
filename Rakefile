@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Alex5::Application.load_tasks
+Railsblog::Application.load_tasks
